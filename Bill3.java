@@ -10,7 +10,7 @@ public class Bill3 {
 		double splittedBill = totalBill / 3.0;
 		double rounded = Math.ceil(splittedBill);
 
-	    System.out.println("Dear " + name3 + ", " + name2 + " and "  + name1 +
-						   ": pay " + rounded + " Shekels each.");
+	    System.out.println("Dear " + name3 + ", " + name2 + ", and "  + name1 +
+						   ": pay " + rounded + " Shekels each");
 	}
 }
